@@ -15,8 +15,8 @@ class ScreenTracuu extends StatefulWidget {
 }
 
 class _ScreenTracuuState extends State<ScreenTracuu> {
-  String yearText = '2023';
-  List<String> years = ['2023','2022','2021','2020','2019','2018','2017','2016','2015','2014','2013','2012'];
+  String yearText = '2024';
+  List<String> years = ['2024','2023','2022','2021','2020','2019','2018','2017','2016','2015','2014','2013','2012'];
   List<EtaxData> chosenList = [];
   double titleHeight = 0;
   double ListviewHeight = 0;
